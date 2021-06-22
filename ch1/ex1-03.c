@@ -1,8 +1,10 @@
 #include <stdio.h>
 
-/* fahrenheit-celsius table with a for loop */
+/* ex 1-03: Modify the temperature conversion program to print a
+   heading above the table */
 
-main()
+/* fahrenheit-celsius table with a for loop */
+int main()
 {
 	int fahr;
 
