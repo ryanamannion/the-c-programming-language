@@ -1,0 +1,4 @@
+# .gitignore
+
+# all a.out binaries, commit only source
+*a.out
